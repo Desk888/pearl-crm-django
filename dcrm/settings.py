@@ -77,10 +77,10 @@ WSGI_APPLICATION = "dcrm.wsgi.application"
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql_psycopg2",
-        "NAME": "dcrm_db",
-        "USER": "postgres",
-        "PASSWORD": "P7aousta",
-        "HOST": "localhost",
+        "NAME": "",
+        "USER": "",
+        "PASSWORD": "",
+        "HOST": "",
         "PORT": "5432",
         
     }
